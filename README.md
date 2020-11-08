@@ -1,6 +1,6 @@
 # hello-world
 Sample repository
 
-I'm using this file to test the functionality of GitHub.
+I'm a PhD students at Case Western Reserve University.
 
-Testing an edit
+I'm using this file to test the functionality of GitHub.
